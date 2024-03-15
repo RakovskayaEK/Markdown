@@ -9,3 +9,10 @@ This is a <sup>superscript</sup> text
 ## Some text
 >some text
 ### Some little text
+`git status` by ctrl+E
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
