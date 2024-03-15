@@ -21,3 +21,4 @@ git commit
 ```
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 `#0969DA`
+I made [thit url](http://www.mobilmusic.ru/mfile/b2/41/b0/1127316.jpg) by ctrl+k
