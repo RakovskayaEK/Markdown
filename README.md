@@ -37,8 +37,8 @@ I made [this url](http://www.mobilmusic.ru/mfile/b2/41/b0/1127316.jpg) by ctrl+k
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 - George Washington
-* John Adams
-+ Thomas Jefferson
+- John Adams
+- Thomas Jefferson
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
